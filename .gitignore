@@ -1,0 +1,32 @@
+⁠ plaintext
+# Ignore build directories
+build/
+dist/
+
+# Ignore Qt Creator files
+*.pro.user
+*.pro.user.*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore SQLite database files
+*.db
+*.sqlite
+
+# Ignore other sensitive or unnecessary files
+.env
+config/
+secrets/
