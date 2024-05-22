@@ -5,8 +5,8 @@ Welcome to **WorkforcePro** - the ultimate Employee Management System designed t
 
 - [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
+
+
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,15 +24,7 @@ Welcome to **WorkforcePro** - the ultimate Employee Management System designed t
 - 📊 **Analytics Dashboard**: Visualize key HR metrics with interactive charts.
 - 🔐 **Secure Access**: Role-based access control to safeguard sensitive information.
 
-## Screenshots
 
-![Dashboard](https://via.placeholder.com/600x400)
-*Interactive Dashboard*
-
-![Employee Management](https://via.placeholder.com/600x400)
-*Detailed Employee Profiles*
-
-## Getting Started
 
 ### Prerequisites
 
@@ -46,7 +38,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository:
 
  ⁠bash
-git clone https://github.com/yourusername/WorkforcePro.git
+git clone https://github.com/bertrandrusa/WorkforcePro.git
 cd WorkforcePro
 
 
@@ -85,24 +77,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions or feedback? We'd love to hear from you!
 
-- **Email**: support@workforcepro.com
-- **Twitter**: [@WorkforceProHR](https://twitter.com/WorkforceProHR)
-- **GitHub Issues**: [Create an Issue](https://github.com/yourusername/WorkforcePro/issues)
+- **Email**: rusanganwabertrand10@gmail.com
 
----
 
 Made with ❤️ by the WorkforcePro Team
 
-
-### Explanation
-
-•⁠  ⁠*Title and Logo*: A catchy title and placeholder for a logo to make the project visually appealing.
-•⁠  ⁠*Table of Contents*: Easy navigation to different sections of the README.
-•⁠  ⁠*About Section*: A brief introduction to what WorkforcePro is and its purpose.
-•⁠  ⁠*Features Section*: Highlighting key features with emojis to make it engaging.
-•⁠  ⁠*Screenshots Section*: Visual representation of the application to attract users.
-•⁠  ⁠*Getting Started*: Clear instructions on prerequisites and steps to install and run the project.
-•⁠  ⁠*Usage*: Simple steps to guide users on how to use the application.
-•⁠  ⁠*Contributing*: Encourages community participation with a step-by-step guide.
-•⁠  ⁠*License*: Information about the project's license.
-•⁠  ⁠*Contact*: Provides ways for users to reach out for support or feedback.
