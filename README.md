@@ -24,15 +24,7 @@ Welcome to **WorkforcePro** - the ultimate Employee Management System designed t
 - 📊 **Analytics Dashboard**: Visualize key HR metrics with interactive charts.
 - 🔐 **Secure Access**: Role-based access control to safeguard sensitive information.
 
-## Screenshots
 
-![Dashboard](https://via.placeholder.com/600x400)
-*Interactive Dashboard*
-
-![Employee Management](https://via.placeholder.com/600x400)
-*Detailed Employee Profiles*
-
-## Getting Started
 
 ### Prerequisites
 
