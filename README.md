@@ -85,21 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions or feedback? We'd love to hear from you!
 
-- **Email**: rusanganwabertrand10@gmail
+- **Email**: rusanganwabertrand10@gmail.com
 
 
 Made with ❤️ by the WorkforcePro Team
 
-
-### Explanation
-
-•⁠  ⁠*Title and Logo*: A catchy title and placeholder for a logo to make the project visually appealing.
-•⁠  ⁠*Table of Contents*: Easy navigation to different sections of the README.
-•⁠  ⁠*About Section*: A brief introduction to what WorkforcePro is and its purpose.
-•⁠  ⁠*Features Section*: Highlighting key features with emojis to make it engaging.
-•⁠  ⁠*Screenshots Section*: Visual representation of the application to attract users.
-•⁠  ⁠*Getting Started*: Clear instructions on prerequisites and steps to install and run the project.
-•⁠  ⁠*Usage*: Simple steps to guide users on how to use the application.
-•⁠  ⁠*Contributing*: Encourages community participation with a step-by-step guide.
-•⁠  ⁠*License*: Information about the project's license.
-•⁠  ⁠*Contact*: Provides ways for users to reach out for support or feedback.
