@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository:
 
  ⁠bash
-git clone https://github.com/yourusername/WorkforcePro.git
+git clone https://github.com/bertrandrusa/WorkforcePro.git
 cd WorkforcePro
 
 
@@ -85,11 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions or feedback? We'd love to hear from you!
 
-- **Email**: support@workforcepro.com
-- **Twitter**: [@WorkforceProHR](https://twitter.com/WorkforceProHR)
-- **GitHub Issues**: [Create an Issue](https://github.com/yourusername/WorkforcePro/issues)
+- **Email**: rusanganwabertrand10@gmail
 
----
 
 Made with ❤️ by the WorkforcePro Team
 
